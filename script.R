@@ -6,3 +6,4 @@ mydata <- read.csv("hello.cvs")
 
 r <- yoyoyo.code 
 
+#what the hell you slacker!
